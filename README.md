@@ -69,9 +69,9 @@ df
  df2
  ```
  <img width="743" height="519" alt="image" src="https://github.com/user-attachments/assets/f094cad8-1313-41bf-ad8d-1b9f6f99b740" />
- ```
- pd.get_dummies(df2,columns=["nom_0"])
- ```
+
+ # pd.get_dummies(df2,columns=["nom_0"])
+
  <img width="739" height="340" alt="image" src="https://github.com/user-attachments/assets/cedd5f76-1450-4eed-85ec-700fbb3bfa4a" />
 
 
